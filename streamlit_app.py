@@ -89,6 +89,6 @@ st.write("**Makanan dengan Lemak Tinggi**: Alpukat, Kacang Almond, Minyak Zaitun
 
 # Footer
 st.markdown('<div class="footer">Dibuat oleh Mahasiswa Jurusan Pangan | Streamlit Kalkulator 2025</div>', unsafe_allow_html=True)
-pip install streamlit matplotlib
+
 
 
